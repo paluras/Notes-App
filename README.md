@@ -1,7 +1,7 @@
 
 # Notes React Project with Firebase
 
-Welcome to the Notes React project! This application allows users to create, edit, and manage their notes in real-time using Firebase for data storage and synchronization.
+Welcome to the Notes React project, which is a part of the Scrimba Learn React Course! This application was built as a practical exercise to help understand how to create a dynamic and interactive React application, leveraging the power of Firebase for real-time data storage and synchronization.
 ## Technologies Used
 
 - **React:** The frontend of the application is built using React, a popular JavaScript library for building user interfaces.
